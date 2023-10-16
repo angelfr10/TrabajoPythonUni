@@ -6,6 +6,7 @@ def main():
     print('Bienvenidos a Tactical Battle. A jugar!\n')
     input('Turno del Jugador 1. Pulsa intro para comenzar')
     j1 = Jugador()
+    #HOLA 
 
     input('Jugador 1, pulsa terminar tu turno')
     limpiar_terminal()
